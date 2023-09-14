@@ -8,7 +8,7 @@ Este é um bot desenvolvido em slash commands, na versao 14 do discord.js, um bo
 
 2 - **Instalação:** Clone o repositório do bot e instale as dependências com o comando `npm install`
 
-3 - **Configuração:** Preencha corretamente com sua token em `config.json`
+3 - **Configuração:** Preencha corretamente com a token do seu bot em `config.json`
 
 4 - **Execução:** Execute o bot com o comando `node .`
 
